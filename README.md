@@ -1,0 +1,1 @@
+i didnt start yet but like basically i am using an orpheus pico with an nfc reader/writer and a nfc card for hardware and i will make it so that when you scan it you can select your default code editor. thats it for now :3 i wont be needing a grant for this
